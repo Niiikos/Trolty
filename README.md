@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Trolty
-- 👀 I’m interested in Gaming and Sport like Judo
-- 🌱 I’m currently learning ?
-- 💞️ I’m looking to collaborate on ?
-- 📫 How to reach me ?
+- 👀 I’m interested in Gaming and Sports like Judo
+- 📫 You can´t reach me :o
 - 🇩🇪 I speak German
 
 <!---
